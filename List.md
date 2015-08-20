@@ -1,6 +1,13 @@
 SD model 進度
 
 * ROI(Region Of Interest)
+  - [ ] 鼻子輪廓
+  - [ ] 耳朵輪廓
+  - [ ] 嘴巴輪廓
+  - [ ] 眼睛輪廓
+
+* Deformation   
+  
 
 - [ ] list syntax required
 - [ ] incomplete
