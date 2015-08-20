@@ -1,7 +1,6 @@
 ### SD model 進度
 
 * ROI(Region Of Interest)
-   - [x]
   * 鼻子
    - [x] 鼻子輪廓
    - [ ] 鼻子ROI
