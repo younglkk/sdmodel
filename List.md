@@ -1,7 +1,7 @@
 #SD model 進度
 
 ##ROI(Region Of Interest)
-* 鼻子(Nose)
+* #鼻子(Nose)
    - [x] 鼻子輪廓
    - [ ] 鼻子ROI
 * 耳朵(Ear)   
