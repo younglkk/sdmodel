@@ -8,3 +8,5 @@ Tesk list
 *   
 
 - [ ] list syntax required
+- [ ] incomplete
+- [x] completed
