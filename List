@@ -1,7 +1,7 @@
 Tesk list
 
-   - [ ] a bigger project
-  - [ ] first subtask #1234
-  - [ ] follow up subtask #4321
-  - [ ] final subtask cc @mention
-- [ ] a separate task
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
